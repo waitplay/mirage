@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "CircularStd";
+    src: url("Circular-Std-Book.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 500;
+} 
+@font-face {
+    font-family: "CircularStdBold";
+    src: url("CircularStd-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 700;
+} 
+@font-face {
+    font-family: "ProximaNovaThin";
+    src: url("ProximaNovaT-Thin.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 400;
+} 
+@font-face {
+    font-family: "ProximaNovaBold";
+    src: url("ProximaNovaBold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 700;
+} 

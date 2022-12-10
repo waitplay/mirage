@@ -1,0 +1,50 @@
+.header {
+    margin-left: 135px;
+    margin-right: 135px;
+    margin-top: 57px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    
+}
+.logo {
+    font-family: josefin-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    height: 35px;
+    color: #F087B1;
+}
+.logoAnthColour {
+    color: #56597A;
+}
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.nav ul {
+ display: flex;
+ flex-direction: row;
+ 
+}
+.nav ul li a {
+    font-family: "CircularStd";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 0 35px 0 35px;
+    color: #AAAAAB;
+}
+.nav ul li:hover {
+    color: #56597A;
+}
+.burgerMenu {
+    width: 16px;
+    height: 12px;
+    margin: 0 0 0 35px;
+}

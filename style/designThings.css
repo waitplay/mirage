@@ -1,0 +1,57 @@
+.design-things {
+    display: flex;
+    flex-direction: row;
+    margin-top: 194px;
+    margin-left: 156px;
+    margin-right: 135px;
+}
+.design-things-img {
+    margin-right: 79px;
+}
+
+.design-things-title {
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+}
+.design-things-sub-title {
+    font-family: 'CircularStdBold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+    color: #56597A;
+    margin-top: 15px;
+}
+.design-things-description {
+    font-family: 'ProximaNovaThin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #919299;
+    margin-top: 24px;
+}
+.design-things-button {
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background: #F78CB6;
+    border-radius: 4px;
+    border: none;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 14px 14px 14px 17px;
+    margin-top: 40px;
+}
+.design-things-button img {
+    padding-left: 17px;
+}

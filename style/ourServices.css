@@ -1,0 +1,102 @@
+.our-services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 172px;
+    margin-left: 135px;
+    margin-right: 135px;
+}
+.our-services-title {
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+}
+.our-services-sub-title{
+    color: #56597A;
+    font-family: 'CircularStdBold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 72px;
+}
+.our-services-block {
+    background-color: #FFF1F9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 8px;
+    padding: 56px 23px 23px 23px;
+    margin: 0 15px 0 15px;
+    min-width: 270px;
+    height: 307px;
+}
+.our-services-block-title {
+    color: #56597A;
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 72px;
+}
+.our-services-block-discription {
+    color: #919299;
+    text-align: center;
+    font-family: 'ProximaNovaThin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.our-services-block-active {
+    background-color: #F78CB6;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 56px 23px 23px 23px;
+    margin: 0 15px 0 15px;
+    min-width: 270px;
+    height: 344px;
+    color: #fff;
+}
+.our-services-block-active-title {
+    color: #fff;
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 72px;
+}
+.our-services-block-active-discription {
+    color: #fff;
+    text-align: center;
+    font-family: 'ProximaNovaThin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.our-services-block-active-button {
+    background: none;
+    border: none;
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    padding-top: 40px;
+}
+.our-services-row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 58px;
+}

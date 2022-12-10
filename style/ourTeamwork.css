@@ -1,0 +1,58 @@
+.our-teamwork {
+    display: flex;
+    flex-direction: row;
+    margin-top: 194px;
+    margin-left: 156px;
+    margin-right: 135px;
+    align-items: center;
+}
+.our-teamwork-img {
+    margin-left: 75px;
+}
+
+.our-teamwork-title {
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+}
+.our-teamwork-sub-title {
+    font-family: 'CircularStdBold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+    color: #56597A;
+    margin-top: 15px;
+}
+.our-teamwork-description {
+    font-family: 'ProximaNovaThin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #919299;
+    margin-top: 24px;
+}
+.our-teamwork-button {
+    font-family: 'CircularStd';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background: #F78CB6;
+    border-radius: 4px;
+    border: none;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 14px 14px 14px 17px;
+    margin-top: 40px;
+}
+.our-teamwork-button img {
+    padding-left: 17px;
+}
