@@ -4,11 +4,12 @@
     margin-top: 194px;
     margin-left: 156px;
     margin-right: 135px;
+    
 }
 .design-things-img {
     margin-right: 79px;
+    scroll-behavior: smooth;
 }
-
 .design-things-title {
     font-family: 'CircularStd';
     font-style: normal;
@@ -36,12 +37,9 @@
     margin-top: 24px;
 }
 .design-things-button {
-    font-family: 'CircularStd';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 30px;
-    letter-spacing: 0.02em;
     color: #FFFFFF;
     background: #F78CB6;
     border-radius: 4px;

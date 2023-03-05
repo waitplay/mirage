@@ -87,11 +87,9 @@
 .our-services-block-active-button {
     background: none;
     border: none;
-    font-family: 'CircularStd';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 30px;
     color: #fff;
     padding-top: 40px;
 }

@@ -26,3 +26,16 @@ li {
     list-style: none;
     cursor: pointer;
 }
+html {
+    scroll-behavior: smooth;
+}
+button {
+    font-family: 'Ropa Sans', sans-serif;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+}
+@media screen and (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
